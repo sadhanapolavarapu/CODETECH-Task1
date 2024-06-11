@@ -19,18 +19,28 @@ The objective of this project is to create a comprehensive data preprocessing pi
 
 KEY ACTIVITES 
 
-Import Necessary Libraries: Load essential Python libraries required for data preprocessing.
-Read Dataset: Load the dataset into a DataFrame for analysis.
-Sanity Check of Data: Verify data integrity by checking for inconsistencies and anomalies.
-Exploratory Data Analysis: Analyze the dataset to understand its structure, patterns, and relationships.
-Missing Value Treatments: Handle missing values by imputing or removing them.
-Outlier Treatments: Identify and manage outliers to prevent skewed analysis.
-Duplicates and Garbage Value Treatments: Remove duplicate entries and irrelevant values from the dataset.
-Encoding of Data: Convert categorical variables into numerical format for model compatibility.
+1.Import Necessary Libraries: Load essential Python libraries required for data preprocessing.
+
+2.Read Dataset: Load the dataset into a DataFrame for analysis.
+
+3.Sanity Check of Data: Verify data integrity by checking for inconsistencies and anomalies.
+
+4.Exploratory Data Analysis: Analyze the dataset to understand its structure, patterns, and relationships.
+
+5.Missing Value Treatments: Handle missing values by imputing or removing them.
+
+6.Outlier Treatments: Identify and manage outliers to prevent skewed analysis.
+
+7.Duplicates and Garbage Value Treatments: Remove duplicate entries and irrelevant values from the dataset.
+
+8.Encoding of Data: Convert categorical variables into numerical format for model compatibility.
 
 TECHNOLOGIES USED 
 
-Python: The primary programming language for data analysis and preprocessing tasks.
-Pandas: A powerful data manipulation and analysis library for reading, cleaning, and transforming data.
-Matplotlib/Seaborn: Visualization libraries used for exploratory data analysis (EDA) to understand data patterns and relationships.
-Google Colab: An interactive, cloud-based environment for writing and running Python code, particularly useful for data analysis and preprocessing.
+1.Python: The primary programming language for data analysis and preprocessing tasks.
+
+2.Pandas: A powerful data manipulation and analysis library for reading, cleaning, and transforming data.
+
+3.Matplotlib/Seaborn: Visualization libraries used for exploratory data analysis (EDA) to understand data patterns and relationships.
+
+4.Google Colab: An interactive, cloud-based environment for writing and running Python code, particularly useful for data analysis and preprocessing.
