@@ -1,7 +1,7 @@
-# CODETECH-Task1
+# CODTECH-Task1
 
 Name : POLAVARAPU SADHANA
-Company : CODETECH IT SOLUTIONS
+Company : CODTECH IT SOLUTIONS
 Id : CT12AI25
 Domain : Artificial Intelligence
 Duration : May to July 2024
